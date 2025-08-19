@@ -1,5 +1,5 @@
 {
-    "name": "harmony/communication",
+    "name": "harmonious/communication",
     "autoload": {
         "psr-4": {
             "Harmonious\\Communication\\": "src/"
