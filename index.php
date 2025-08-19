@@ -2,8 +2,8 @@
 
 require(__DIR__ . "/vendor/autoload.php");
 
-use Harmony\Communication\Request;
-use Harmony\Communication\Response;
+use Harmonious\Communication\Request;
+use Harmonious\Communication\Response;
 
 $request = new Request();
 $response = new Response();

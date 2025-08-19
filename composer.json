@@ -2,7 +2,7 @@
     "name": "harmony/communication",
     "autoload": {
         "psr-4": {
-            "Harmony\\Communication\\": "src/"
+            "Harmonious\\Communication\\": "src/"
         }
     },
     "require": {}
